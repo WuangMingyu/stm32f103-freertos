@@ -6,6 +6,7 @@
         "task.h": "c",
         "mpu6050.h": "c",
         "list.h": "c",
-        "freertos.h": "c"
+        "freertos.h": "c",
+        "timers.h": "c"
     }
 }
