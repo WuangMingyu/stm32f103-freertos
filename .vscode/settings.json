@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stm32f10x_it.h": "c",
+        "oled.h": "c",
+        "stm32f10x.h": "c",
+        "task.h": "c",
+        "mpu6050.h": "c",
+        "list.h": "c",
+        "freertos.h": "c"
+    }
+}

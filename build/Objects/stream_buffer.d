@@ -1,0 +1,14 @@
+.\objects\stream_buffer.o: ..\source\freertos\src\stream_buffer.c
+.\objects\stream_buffer.o: C:\my_environment\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stream_buffer.o: C:\my_environment\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\stream_buffer.o: ..\source\freertos\inc\FreeRTOS.h
+.\objects\stream_buffer.o: C:\my_environment\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\stream_buffer.o: ..\source\freertos\FreeRTOSConfig.h
+.\objects\stream_buffer.o: ..\source\freertos\inc\projdefs.h
+.\objects\stream_buffer.o: ..\source\freertos\inc\portable.h
+.\objects\stream_buffer.o: ..\source\freertos\inc\deprecated_definitions.h
+.\objects\stream_buffer.o: ..\source\freertos\port\portmacro.h
+.\objects\stream_buffer.o: ..\source\freertos\inc\mpu_wrappers.h
+.\objects\stream_buffer.o: ..\source\freertos\inc\task.h
+.\objects\stream_buffer.o: ..\source\freertos\inc\list.h
+.\objects\stream_buffer.o: ..\source\freertos\inc\stream_buffer.h
